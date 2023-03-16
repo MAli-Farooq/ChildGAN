@@ -3,10 +3,10 @@ ChildGAN
 
 # Large Scale Synthetic Child Data Generated via ChildGAN
 
-This repo contains all the codes. trained models, optimized version of models using TensorflowLite tool and validatation results
+This repo contains all the codes. trained models, and link to downlaod complete genereted dataset with six different smart transformations.
 
-The complete YOLO-v5 folder can be cloned from the follwing github repo link.
-https://github.com/ultralytics/yolov5 
+The complete styleGAN2 repository can be downloaded from the below link.
+Link: https://github.com/NVlabs/stylegan2-ada-pytorch
 
 The locally acquired C3I thermal automative dataset can be downloaded from IEEE Dataport.
 Link: https://ieee-dataport.org/documents/c3i-thermal-automotive-dataset
