@@ -27,8 +27,11 @@ Email 2: yaowang_1994@outlook.com
 
 Thank you.
 
-Regards
-Dr Muhammad Ali Farooq
-University of Galway
+Regards--
+
+Dr Muhammad Ali Farooq--
+
+University of Galway--
+
 Ireland 
 
