@@ -12,7 +12,7 @@ Link: https://github.com/NVlabs/stylegan2-ada-pytorch
 
 2.	The overall ChildGAN dataset structure is provided in the table below.
 
-![](images/ChildGAN_Dataset Table.PNG)
+![](images/ChildGAN_Dataset Table.png)
 
 
 
