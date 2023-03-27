@@ -18,6 +18,14 @@ Link: https://github.com/NVlabs/stylegan2-ada-pytorch
 
 ![](images/2.PNG)
 
+4.	For further queries please reach us at following email address 
+Email 1: mali.farooq@outlook.com, 
+Email 2: yaowang_1994@outlook.com 
 
+Thank you.
 
-Link: https://nuigalwayie-my.sharepoint.com/:f:/g/personal/m_farooq3_nuigalway_ie/ErYzIbafONlKl04jTAnpFQkBEK9-B2N350DWgSnk8rIGLw?e=lknp0f
+Regards
+Dr Muhammad Ali Farooq
+University of Galway
+Ireland 
+
