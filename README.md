@@ -3,6 +3,8 @@ ChildGAN
 
 # Large Scale Synthetic Child Data Generated via ChildGAN
 
+![](images/3.PNG)
+
 This repo contains all the codes. trained models, and link to downlaod complete genereted dataset with six different smart transformations.
 
 The complete styleGAN2 repository can be downloaded from the below link.
