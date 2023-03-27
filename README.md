@@ -21,7 +21,7 @@ Link: https://github.com/NVlabs/stylegan2-ada-pytorch
 4.	For further queries please reach us at following email address.
 
 
-Email 1: mali.farooq@outlook.com 
+Email 1: mali.farooq@outlook.com --
 
 Email 2: yaowang_1994@outlook.com
 
