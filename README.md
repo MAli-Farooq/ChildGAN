@@ -3,7 +3,7 @@ ChildGAN
 
 # Large Scale Synthetic Child Data Generated via ChildGAN
 
-![](images/3.PNG)
+![](images/3.png)
 
 This repo contains all the codes. trained models, and link to downlaod complete genereted dataset with six different smart transformations.
 
