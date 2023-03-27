@@ -27,7 +27,7 @@ Email 2: yaowang_1994@outlook.com
 
 Thank you.
 
-Regards--
+Regards --
 
 Dr Muhammad Ali Farooq--
 
