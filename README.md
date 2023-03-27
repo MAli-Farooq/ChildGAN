@@ -29,10 +29,10 @@ Thank you.
 
 Regards 
 
-Dr Muhammad Ali Farooq --
+Dr Muhammad Ali Farooq 
 
 
-University of Galway --
+University of Galway 
 
 
 Ireland 
