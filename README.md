@@ -8,6 +8,13 @@ This repo contains all the codes. trained models, and link to downlaod complete 
 The complete styleGAN2 repository can be downloaded from the below link.
 Link: https://github.com/NVlabs/stylegan2-ada-pytorch
 
+1.	The complete dataset along the trained models are open sourced and can be used to generate further synthetic child data samples.
+
+2.	The overall ChildGAN dataset structure is provided in the table below.
+
+
+
+
 The locally acquired C3I thermal automative dataset can be downloaded from IEEE Dataport.
 Link: https://ieee-dataport.org/documents/c3i-thermal-automotive-dataset
 
