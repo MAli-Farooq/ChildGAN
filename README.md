@@ -7,7 +7,7 @@ ChildGAN
 
 This repo contains all the codes. trained models, and link to downlaod complete genereted dataset with six different smart transformations. In this work we have incorparetd six differet smart facial transoformations which include four different facial expressions, eye blinking effect, hair and skin color digitization, aging, facial yaw and pitch variation and varoius ligting conditions.
 
-![](GIFs/ Boy Pitch GIF.gif)
+![](GIFs/Boy Pitch GIF.gif)
 
 The complete styleGAN2 repository can be downloaded from the below link.
 Link: https://github.com/NVlabs/stylegan2-ada-pytorch
