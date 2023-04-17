@@ -7,7 +7,11 @@ ChildGAN
 
 This repo contains all the codes. trained models, and link to downlaod complete genereted dataset with six different smart transformations. In this work we have incorparetd six differet smart facial transoformations which include four different facial expressions, eye blinking effect, hair and skin color digitization, aging, facial yaw and pitch variation and varoius ligting conditions.
 
+1. Boy Pitch Variation
+
 ![](GIFs/1.gif)
+
+
 ![](GIFs/2.gif)
 ![](GIFs/3.gif)
 ![](GIFs/4.gif)
