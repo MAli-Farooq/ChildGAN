@@ -9,6 +9,7 @@
     <source src="video/ChildGAN_Final_Video.mp4" type="video/mp4">
 </video>
 ```
+![](video/ChildGAN_Final_Video.mp4)
 
 ChildGAN
 
