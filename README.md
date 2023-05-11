@@ -1,4 +1,12 @@
 # ChildGAN
+
+
+```HTML
+<video width="320" height="240" controls>
+    <source src="video/ChildGAN_Final_Video.mp4" type="video/mp4">
+</video>
+```
+
 ChildGAN
 
 This is the link of dataset samples: https://drive.google.com/file/d/1oU-6DbwmtiUOokdZtEuCgB8p6TVPRb21/view?usp=share_link
