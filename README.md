@@ -1,6 +1,9 @@
 # ChildGAN
 
 
+<video src="video/ChildGAN_Final_Video.mp4" controls="controls" width="500" height="300"></video>
+
+
 ```HTML
 <video width="320" height="240" controls>
     <source src="video/ChildGAN_Final_Video.mp4" type="video/mp4">
