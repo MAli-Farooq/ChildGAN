@@ -3,7 +3,7 @@
 
 <video src="video/ChildGAN_Final_Video.mp4" controls="controls" width="500" height="300"></video>
 
-https://github.com/DanBigioi/DiffusionVideoEditing/assets/44242832/474b1c06-daf7-4d79-ad30-247c0269b68c
+https://www.youtube.com/watch?v=qXhjN66O7Bk
 
 
 ```HTML
