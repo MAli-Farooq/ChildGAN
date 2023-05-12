@@ -3,7 +3,7 @@
 
 <video src="video/ChildGAN_Final_Video.mp4" controls="controls" width="500" height="300"></video>
 
-https://www.youtube.com/watch?v=qXhjN66O7Bk
+https://github.com/MAli-Farooq/ChildGAN/blob/main/video/ChildGAN_Final_Video.mp4
 
 
 ```HTML
