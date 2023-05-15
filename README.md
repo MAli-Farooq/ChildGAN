@@ -1,14 +1,15 @@
 # ChildGAN
 
-ChildGAN
+# Large Scale Synthetic Child Data Generated via ChildGAN
+
+![](images/3.png)
+
+Link for downloading the Dataset 
 
 This is the link of dataset samples: https://drive.google.com/file/d/1oU-6DbwmtiUOokdZtEuCgB8p6TVPRb21/view?usp=share_link
 
 This is the link of whole dataset: https://drive.google.com/drive/folders/1QPTI9Sd4TXTcQWbTEojv6pdWBxlVd1n1?usp=share_link
 
-# Large Scale Synthetic Child Data Generated via ChildGAN
-
-![](images/3.png)
 
 This repo contains all the codes. trained models, and link to downlaod complete genereted dataset with six different smart transformations. In this work we have incorparetd six differet smart facial transoformations which include four different facial expressions, eye blinking effect, hair and skin color digitization, aging, facial yaw and pitch variation and varoius ligting conditions.
 
