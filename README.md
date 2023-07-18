@@ -10,6 +10,8 @@ This is the link of dataset samples: https://drive.google.com/file/d/1oU-6Dbwmti
 
 This is the link of whole dataset: https://drive.google.com/drive/folders/1QPTI9Sd4TXTcQWbTEojv6pdWBxlVd1n1?usp=share_link
 
+The tuned models can be downloaded from the below link.
+https://drive.google.com/drive/folders/1JtLsueTcNOXfmCv76Y78YRu-Q38NfTAL?usp=share_link
 
 This repo contains all the codes. trained models, and link to downlaod complete genereted dataset with six different smart transformations. In this work we have incorparetd six differet smart facial transoformations which include four different facial expressions, eye blinking effect, hair and skin color digitization, aging, facial yaw and pitch variation and varoius ligting conditions.
 
